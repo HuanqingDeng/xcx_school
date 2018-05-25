@@ -1,9 +1,12 @@
 {
-  "pages": [
+  "pages": ["pages/recored/recorde",
     "pages/user/user",
     "pages/index/index",
     "pages/logs/logs",
-    "pages/electric/electric"
+    "pages/electric/electric",
+    "pages/card/card",
+    "pages/chongzhi/chongzih"
+    
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -1,0 +1,28 @@
+.page{
+    overflow: hidden;
+}
+.page__hd .page__title,.page__desc{
+   text-align: center;
+   margin-top: 20rpx;
+}
+.page__hd .page__image image{
+    display: inline-block;
+    width: 200rpx;
+    height: 200rpx;
+    margin-left:280rpx;
+}
+.page_fd .weui-footer__link{
+    position: absolute;
+    bottom: 10rpx;
+    display: flex;
+    margin-left: 150rpx;
+}
+.page__bd{
+    margin-top: 140rpx;
+}
+.weui-btn-are button{
+    background:green;
+}
+.weui-cell_access .weui-btn-are button{
+    width: 100%;
+} 
